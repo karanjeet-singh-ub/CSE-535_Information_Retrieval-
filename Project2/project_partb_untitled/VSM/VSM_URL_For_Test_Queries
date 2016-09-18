@@ -1,0 +1,59 @@
+URL for Query 001 :- lang:en PM Medvedev’s delegation to coordinate anti-terrorist actions
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchEn?q=text_custom_en:""PM Medvedev’s delegation to coordinate anti-terrorist actions""ORtext_custom_ru:""М. Медведев делегация координировать действия антитеррористической""ORtext_custom_de:""PM Medvedev Delegation in Anti-Terror-Maßnahmen zu koordinieren""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 002 :- lang:en Anti-Refugee Rally in Dresden
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchEn?q=text_custom_en:""Anti-Refugee Rally in Dresden""ORtext_custom_ru:""Митинг против беженцев в Дрездене""ORtext_custom_de:""Flüchtlingsfeindlichen Rallye in Dresden""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 003 :- lang:en The European Refugee Crisis and Syria Explained animation
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchEn?q=text_custom_en:""The European Refugee Crisis and Syria Explained animation""ORtext_custom_ru:""Европейский кризис беженцев и Сирии объяснил анимация""ORtext_custom_de:""Die europäischen Flüchtlingskrise und Syrien erklärt animation""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 004 :- lang:en ISIS Kills TOP Iranian General in Syria
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchEn?q=text_custom_en:""ISIS Kills TOP Iranian General in Syria""ORtext_custom_ru:""ISIS убивает Топ иранского Генерального в Сирии""ORtext_custom_de:""ISIS tötet TOP iranischen General in Syrien""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 005 :- lang:en RT @Free_Media_Hub
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchEn?q=text_custom_en:""RT @Free_Media_Hub""ORtext_custom_ru:""RT @Free_Media_Hub""ORtext_custom_de:""RT @Free_Media_Hub""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 006 :- lang:en Syrian civil war
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchEn?q=text_custom_en:""Syrian civil war""ORtext_custom_ru:""Гражданская война в Сирии""ORtext_custom_de:""Syrische Bürgerkrieg""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 007 :- lang:en US air dropped 50 tons of Ammo on Syria
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchEn?q=text_custom_en:""US air dropped 50 tons of Ammo on Syria""ORtext_custom_ru:""Воздуха США упала 50 тонн боеприпасов по Сирии""ORtext_custom_de:""US Air 50 Tonnen Munition, die von Syrien gelöscht werden""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 008 :- lang:de Assad und ISIS auf dem Vormarsch
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchDe?q=text_custom_de:""Assad und ISIS auf dem Vormarsch""ORtext_custom_en:""Assad and ISIS on the rise""ORtext_custom_ru:""Асад и ИСИДЫ на подъеме""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 009 :- lang:de Russische Botschaft in Syrien von Granaten getroffen
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchDe?q=text_custom_de:""Russische Botschaft in Syrien von Granaten getroffen""ORtext_custom_en:""Russian Embassy in Syria by grenades hit""ORtext_custom_ru:""Посольство РФ в Сирии путем попадания гранаты""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+------------------------------------------------------------------------------------------
+
+URL for Query 010 :- lang:ru Бильд. Внутренний документ говорит, что Германия примет 1,5 млн беженцев в этом году
+
+http://ramanpreet1990.koding.io:8983/solr/RamanVsmModel/ramanVsmSearchRu?q=text_custom_ru:""Бильд. Внутренний документ говорит, что Германия примет 1,5 млн беженцев в этом году""ORtext_custom_en:""Bild. The internal document says that Germany will take 1.5 million refugees this year""ORtext_custom_de:""Bild. Das interne Dokument sagt, dass Deutschland in diesem Jahr 1,5 Millionen Flüchtlinge nehmen""&start=0&rows=1000&df=text_custom_en,text_custom_en,text_custom_ru,text_custom_ru,text_custom_de,text_custom_de,tweet_hashtags&mm=2<1%208<2&fl=id%2Cscore&wt=json&indent=true
+
+
